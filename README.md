@@ -36,7 +36,7 @@
   
   <br />
   
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/html/html-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/css/css-ar21.svg"></code>
   <br/>
