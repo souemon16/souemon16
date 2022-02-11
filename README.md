@@ -6,10 +6,10 @@
 
 ## I'm a Junior Web-Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Flutter & Dart 🤣
 - 👯 I’m looking to collaborate on anything...
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play outdoor games
+- 🥅 2021 Goals: Want to see myself as a Web & App Developer
+- ⚡ Fun fact: Getting a ps5 is my DREAM...
 - 🔭 How to reach me: [Website](https://hiresourav.netlify.app/)
 
 
