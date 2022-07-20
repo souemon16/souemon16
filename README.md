@@ -4,11 +4,11 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/souemon16)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/inventedmyself/)
 
-## I'm a Junior Web-Developer!!
+## I'm a Junior Flutter Developer!!
 
 - 🌱 I’m currently learning Flutter & Dart 🤣
 - 👯 I’m looking to collaborate on anything...
-- 🥅 2021 Goals: Want to see myself as a Web & App Developer
+- 🥅 2022 Goals: Want to see myself as a FullStack Flutter Developer
 - ⚡ Fun fact: Getting a ps5 is my DREAM...
 - 🔭 How to reach me: [Website](https://hiresourav.netlify.app/)
 
@@ -25,6 +25,13 @@
 ### Languages and Tools:
 
 <p>
+
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  
+  <br />
+  
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
