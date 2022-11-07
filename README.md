@@ -8,9 +8,10 @@
 
 - 🌱 I’m currently learning Flutter & Dart 🤣
 - 👯 I’m looking to collaborate on anything...
-- 🥅 2022 Goals: Want to see myself as a FullStack Flutter Developer
+- 🥅 2022 Goals: Want to see myself as a Senior Flutter Developer
 - ⚡ Fun fact: Getting a ps5 is my DREAM...
 - 🔭 How to reach me: [Website](https://hiresourav.netlify.app/)
+- 🔭 My website by [GoogleSite](https://sites.google.com/view/souravemon/)
 
 
 ### Connect with me:
