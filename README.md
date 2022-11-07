@@ -20,6 +20,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Sourav Sarker Emon's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/google.svg" />][GoogleSite]
 
 <br />
 
@@ -80,6 +81,7 @@
 [gmail]: souemon16@gmail.com
 [instagram]: https://instagram.com/souemon16
 [linkedin]: https://linkedin.com/in/inventedmyself
+[GoogleSite]: https://sites.google.com/view/souravemon/
 
 
 
